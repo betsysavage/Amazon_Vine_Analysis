@@ -1,7 +1,7 @@
 # Amazon_Vine_Analysis
 
 ## Overview of the Analysis: 
-The client, SellBy, is considering participating in Amazon's Vine reviews program, a service that allows retailers to pay a small fee to gather reviews from Amazon members. The purpose of this analysis is to use Amazon Web Services RDS, PySpark, and pgAdmin to complete an ETL process on a dataset for the selected product of books. When examining the data throughout this process, we are assessing whether the reviews gathered through the Vine program are more favorable than regular reviews, and providing these findings back to the client to inform their decision about whether to participate.
+The client, SellBy, is considering participating in Amazon's Vine reviews program, a service that allows retailers to pay a small fee to gather reviews from Amazon members. This analysis involves using PySpark to complete an ETL process on a dataset for the selected product of books. When examining the data throughout this process, we are assessing whether the reviews gathered through the Vine program are more favorable than regular reviews, and providing these findings back to the client to inform their decision about whether to participate.
 
 ## Results: 
 (Prepping the data)
